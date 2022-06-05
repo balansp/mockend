@@ -1,0 +1,29 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Rahul Avva",
+      "designation": "UI Developer",
+      "skills": "Skills : HTML, CSS, Javascript, AJAX",
+      "About": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque posuere eros quis efficitur fermentum. Suspendisse interdum sem sed mauris luctus finibus. Orci varius natoque penatibus et magnis dis parturient montes.",
+      "photo": "https://cdn.lorem.space/images/face/.cache/400x600/nishanth-avva-SdCaK9YKdwk-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Aiony Haust",
+      "designation": "AEM Developer",
+      "skills": "Skills : JAVA, AEM, C++, Spring",
+      "About": "Ut nec dui elit. Aliquam erat volutpat. Pellentesque luctus nulla faucibus sagittis malesuada. Praesent nisl nisi, eleifend non tortor eu, efficitur ullamcorper tellus.",
+      "photo": "https://cdn.lorem.space/images/face/.cache/400x600/aiony-haust-3TLl_97HNJo-unsplash.jpg"
+    }
+    ,
+    {
+      "id": 3,
+      "name": "Julian Wan",
+      "designation": "Tester",
+      "skills": "Skills : Automation, Manual Testing, Puppeteer",
+      "About": "In eget feugiat diam, et fringilla elit. Donec lorem ex, accumsan vel neque at, volutpat scelerisque diam. Integer in congue leo. Vivamus maximus venenatis tortor.",
+      "photo": "https://cdn.lorem.space/images/face/.cache/400x600/julian-wan-WNoLnJo7tS8-unsplash.jpg"
+    }
+  ]
+}
