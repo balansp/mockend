@@ -1,8 +1,5 @@
-
-
 {
-  "Post": {
- "employees": [
+  "employees": [
     {
       "id": 1,
       "name": "Rahul Avva",
@@ -18,8 +15,7 @@
       "skills": "Skills : JAVA, AEM, C++, Spring",
       "About": "Ut nec dui elit. Aliquam erat volutpat. Pellentesque luctus nulla faucibus sagittis malesuada. Praesent nisl nisi, eleifend non tortor eu, efficitur ullamcorper tellus.",
       "photo": "https://cdn.lorem.space/images/face/.cache/400x600/aiony-haust-3TLl_97HNJo-unsplash.jpg"
-    }
-    ,
+    },
     {
       "id": 3,
       "name": "Julian Wan",
@@ -29,6 +25,4 @@
       "photo": "https://cdn.lorem.space/images/face/.cache/400x600/julian-wan-WNoLnJo7tS8-unsplash.jpg"
     }
   ]
-   
-  }
 }
